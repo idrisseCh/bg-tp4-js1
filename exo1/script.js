@@ -3,10 +3,10 @@
 //Slide 37 utilisation des commentaires
 
 //Slide 38 la declaration des variable et des constants 
-nom = "John";
-prenom = "Doe";
-age ="30";
-note = "15";
+let nom = "John";
+let prenom = "Doe";
+let age ="30";
+let note = "15";
 const pi =3.14;
 
 
