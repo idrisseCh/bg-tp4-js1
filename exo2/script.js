@@ -60,7 +60,7 @@ function F3(){
 
     //Slide 38 concstenation des chaines
     // Slide 45: Boucle pour parcourir le tableau d'objets
-    for (let i = 0; i < Etudiants.length; i++) {
+    for (let i = 0; i < etudiants.length; i++) {
         const etudiant = Etudiants[i];
         // Slide 40: Accès a chaque objet
         console.log(etudiant.nom + "-" + etudiant.prenom + "-" + etudiant.age);
